@@ -1,3 +1,17 @@
 body {
-  background: blue;
+  background-image: url(./images/pexels-element-digital-1293261.jpg);
+  background-size: contain;
+}
+
+img {
+  max-width: 45%;
+  max-height: 45%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
 }
